@@ -14,7 +14,7 @@ let passport = require('passport')
 let flash = require('connect-flash')
 let validator = require('express-validator')
 let MongoStore = require('connect-mongo')(session)
-
+let dawdwa = dadaw
 var app = express()
 
 mongoose.connect(connection)
